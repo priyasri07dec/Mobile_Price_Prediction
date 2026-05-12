@@ -70,7 +70,13 @@ ElasticNet achieved the best performance among all the models
 
 ## Streamlit Application
 
-The Project also includes an interactive web application where user can input the mobile specifications and get the predicted price
+The Project also includes an interactive web application where user can input the mobile specifications and get the predicted price.
+
+## Live Streamlit App
+
+Click below to open the deployed application:
+
+https://priya-srivastava-mobilepriceprediction.streamlit.app/
 
 ## Project Structure
 
@@ -83,23 +89,7 @@ Mobile Price Prediction
 - requirements.txt
 - README.md
 
-## How to run the project
 
-### Step 1: Clone the Repository
-
-```bash
-git clone 
-```
-
-### Step 2: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-### Step 3: Run Streamlit App
-
-```bash
-streamlit run app.py
 ```
 ## Conclusion
 
