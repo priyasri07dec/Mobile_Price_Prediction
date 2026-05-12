@@ -90,7 +90,6 @@ Mobile Price Prediction
 - README.md
 
 
-```
 ## Conclusion
 
 This project successfully predicts mobile phone prices using Machine Learning techniques. Different regression models were compared, and ElasticNet Regression achieved the best performance. The project demonstrates the complete Machine Learning workflow from data preprocessing to deployment.
