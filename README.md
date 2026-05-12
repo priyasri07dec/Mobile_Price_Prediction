@@ -61,11 +61,10 @@ The following regression algorithms were compared:
 
 ## Model Performance
 
-### Model              Performance
--Linear Regression          0.866
--Ridge Regression           0.870
--Lasso Regression           0.866
--ElasticNet                 0.875
+-Linear Regression  : 0.866
+-Ridge Regression   : 0.870
+-Lasso Regression   : 0.866
+-ElasticNet         : 0.875
 
 ElasticNet achieved the best performance among all the models
 
