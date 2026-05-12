@@ -61,10 +61,10 @@ The following regression algorithms were compared:
 
 ## Model Performance
 
--Linear Regression  : 0.866
--Ridge Regression   : 0.870
--Lasso Regression   : 0.866
--ElasticNet         : 0.875
+- Linear Regression  : 0.866
+- Ridge Regression   : 0.870
+- Lasso Regression   : 0.866
+- ElasticNet         : 0.875
 
 ElasticNet achieved the best performance among all the models
 
@@ -76,31 +76,31 @@ The Project also includes an interactive web application where user can input th
 
 Mobile Price Prediction
 
-app.py
-cellphone.csv
-mobile_phone_prediction_model.pkl
-scaler.pkl
-requirements.txt
-README.md
+- app.py
+- cellphone.csv
+- mobile_phone_prediction_model.pkl
+- scaler.pkl
+- requirements.txt
+- README.md
 
 ## How to run the project
 
 ### Step 1: Clone the Repository
 
-'''bash
+```bash
 git clone 
-'''
+```
 
 ### Step 2: Install Dependencies
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 ### Step 3: Run Streamlit App
 
-'''bash
+```bash
 streamlit run app.py
-'''
+```
 ## Conclusion
 
 This project successfully predicts mobile phone prices using Machine Learning techniques. Different regression models were compared, and ElasticNet Regression achieved the best performance. The project demonstrates the complete Machine Learning workflow from data preprocessing to deployment.
